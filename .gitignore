@@ -1,6 +1,12 @@
 # Ignorar cache do Python
 __pycache__/
 
+# Ignorar checkpoints do Jupyter
 .ipynb_checkpoints/
 
+# Ignorar ambientes virtuais
+.venv/
 venv/
+
+# Ignorar configurações do VSCode
+.vscode/
