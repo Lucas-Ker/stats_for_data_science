@@ -64,8 +64,9 @@ O projeto está organizado da seguinte forma:
 └── requirements.txt     <- Project dependency list
 
 ```
+--- 
 
---- ## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório:** 
 
