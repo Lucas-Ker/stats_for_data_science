@@ -14,7 +14,7 @@ O objetivo é documentar, aplicar e explicar conceitos estatísticos fundamentai
 
 Este é um projeto em **constante evolução**. Ele será atualizado regularmente com novos notebooks, técnicas mais avançadas e refatorações, refletindo meu crescimento e aprofundamento contínuo na carreira de Ciência de Dados.
 
-**Dataset:** Os dados analisados neste projeto vêm do conjunto de dados "Video Game Sales with Ratings", disponível no [Kaggle](https://www.kaggle.com/datasets/xtyscut/video-games-sales-as-at-22-dec-2016csv/data).
+**Dataset:** Os dados analisados neste projeto vêm do conjunto de dados "Video Game Sales with Ratings", disponível no [Kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings).
 
 ---
 
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
    Você precisa dos arquivos de dados brutos dentro da pasta `data/`. Siga os passos de download manual:
 
-   * **a.** Vá para a página do conjunto de dados no Kaggle: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/xtyscut/video-games-sales-as-at-22-dec-2016csv/data).
+   * **a.** Vá para a página do conjunto de dados no Kaggle: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings).
    * **b.** Clique no botão “Download” para obter o arquivo `.zip` (provavelmente nomeado `archive.zip`).
    * **c.** Extraia o arquivo.
    * **d.** Copie o arquivo principal (por exemplo, `Video_Games_Sales_as_at_22_Dec_2016.csv`) para a pasta `data/` deste projeto.
