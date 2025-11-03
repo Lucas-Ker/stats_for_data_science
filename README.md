@@ -14,7 +14,7 @@ This project serves as a practical, hands-on guide to the fundamental concepts o
 
 This is a project in **continuous evolution**. It will be updated regularly with new notebooks, more advanced techniques, and refactorings, reflecting my ongoing growth and deepening in the Data Science career.
 
-**Dataset:** The data analyzed in this project comes from the "Video Game Sales with Ratings" dataset, available on [Kaggle](https://www.kaggle.com/datasets/xtyscut/video-games-sales-as-at-22-dec-2016csv/data).
+**Dataset:** The data analyzed in this project comes from the "Video Game Sales with Ratings" dataset, available on [Kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings).
 
 ---
 
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
    You need the raw data files inside the `data/` folder. Follow the manual download steps:
 
-   * **a.** Go to the dataset page on Kaggle: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/xtyscut/video-games-sales-as-at-22-dec-2016csv/data).
+   * **a.** Go to the dataset page on Kaggle: [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings).
    * **b.** Click the “Download” button to get the `.zip` file (likely named `archive.zip`).
    * **c.** Unzip the file.
    * **d.** Copy the main file (e.g., `Video_Games_Sales_as_at_22_Dec_2016.csv`) into this project’s `data/` folder.
