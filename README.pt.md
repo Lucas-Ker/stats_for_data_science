@@ -111,7 +111,7 @@ jupyter lab
 
 Como este é um projeto em evolução, a lista de tópicos a serem adicionados é contínua. Os próximos estudos planejados incluem:
 
-* Escrever uma seção sobre PCA e Métodos de Conjunto (Random Forests & XGBoost).
+* Escrever uma seção sobre PCA e Ensemble Methods (Random Forests & XGBoost).
 
 * Escrever uma seção sobre Validação Cruzada e Ajuste de Hiperparâmetros.
 
